@@ -1,0 +1,27 @@
+.alpha {
+    display: flex;   
+  }
+
+.bravo {
+    display: grid;
+}
+
+.alpha {
+    width: 97vw;
+    height: 20vh;
+    padding: 0px;
+    border: 2px solid red;
+    background-color: darkred;
+    margin: 0px 0px 0px;
+    z-index: 1;
+  }
+
+.bravo {
+    width: 97vw;
+    height: 60vh;
+    padding: 0px;
+    border: 2px solid green;
+    background-color: darkgreen;
+    margin: 0px 0px 0px;
+    z-index: 2;
+  }
